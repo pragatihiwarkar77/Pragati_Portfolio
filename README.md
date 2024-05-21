@@ -4,14 +4,17 @@
 #### Technical Skills:
 -	Knowledge of Machine Learning.
 -	Python/ML Packages: Scikit Learn, Pandas, Numpy, RegEx, Matplotlib, Seaborn for visualization. 
--	Algorithms: Linear Regression, Logistic Regression, Naive Bayes Classifier, k-NN, Support Vector Machines, Decision Tree, Random Forest, Gradient Descent, Time Series Analysis.
+-	Algorithms: Linear Regression, Logistic Regression, Naive Bayes Classifier, k-NN, Support Vector Machines, Decision Tree, Random Forest, Gradient Descent, Time 
+  Series Analysis.
 - Web stack: Flask.
--	Deep Learning: Neural Networks, Deep Learning, ANN, CNN, DNN, Transfer Learning, Back Propagation, Linear Algebra, Activation & loss functions, optimisers, Tensorflow 2.x, Keras,
+-	Deep Learning: Neural Networks, Deep Learning, ANN, CNN, DNN, Transfer Learning, Back Propagation, Linear Algebra, Activation & loss functions, optimisers, 
+  Tensorflow 2.x, Keras,
 -	Database: SQL, MongoDB, 3C(Command, Constrains, Clauses), CRUD operations, Subqueries, Window functions, Joins
 -	AWS: Elastic Compute Cloud, Sagemaker, Notebook instance, AWS container, Simple Storage Services S3, Deployment, Multi cloud environment.
 -	NLP: Text understanding, representation & classification techniques, Text clustering skills,sentiment analysis
 -	Libraries: nltk, spacy, gensim, textblob, langdetect, googletrans
--	Maths & Stats: Filter, Wrapper, Embedded Method, P-Value, T-Test, Z-Test, ANNOVA test, Chi-Square Test, Info-Gain Test, Hypothesis Testing. probability, statistics, linear algebra, probability, statistics, linear algebra.
+-	Maths & Stats: Filter, Wrapper, Embedded Method, P-Value, T-Test, Z-Test, ANNOVA test, Chi-Square Test, Info-Gain Test, Hypothesis Testing. probability, 
+  statistics, linear algebra, probability, statistics, linear algebra.
 
 
 ## Education
